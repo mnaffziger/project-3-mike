@@ -1,0 +1,27 @@
+/*Format the map*/
+
+body {
+    padding: 0;
+    margin: 0;
+  }
+  
+  #map,
+  body,
+  html {
+    height: 100%;
+  }
+
+  /*graph flex conatiner formatting*/
+  .flex-conatiner {
+    display: flex
+  }
+
+  .stock {
+    flex: 1;
+  }
+
+  .stock:first-stock {
+    margin-right: 20px;
+  }
+
+  
