@@ -7,17 +7,19 @@ function buildStockOne(tickerOne) {
 
     // Access the website and use d3 to operate on the data
     // read in url
-    const url = "URL GOES HERE";
+    const url1 = "https://raw.githubusercontent.com/mnaffziger/project-3-mike/main/05_michael_test/all_prices_xdf.json";
 
     //fetch the JSON data and console log it
-   d3.json(url).then((data) => {
+   d3.json(url1).then((data) => {
     console.log(data);
 
     // Filter the data for the object with the desired ticker
     let metadata = data.metadata;
+
     //THIS CALL MAY NEED TO CHANGE DEPENDING ON HOW THE DATA IS FORMATTED
     let filteredArray = metadata.filter(tickerOneObj => tickerOneObj.ticker == tickerOne);
     let result = filteredArray[0];
+
     // Select the panel with ticker of `#stock-one-metadata`
     let panel = d3.select("#stock-one-metadata");
   
@@ -30,44 +32,35 @@ function buildStockOne(tickerOne) {
     };
     });
   };
-
+  
   function buildChart(tickerOne) {
     // Access the website and use .then to operate on the data
         // read in url
-    const url = "URL GOES HERE";
+    const url1 = "https://raw.githubusercontent.com/mnaffziger/project-3-mike/main/05_michael_test/all_prices_xdf.json";
 
     //fetch the JSON data and console log it
-    d3.json(url).then((data) => {
+    d3.json(url1).then((data) => {
       // Filter the data for the object with the desired ticker
-      let tickers = data.tickers;
-      let filteredTickersArray = tickers.filter(tickerOneObj => tickerOneObj.symbol == tickerOne);
-      let result = filteredTickersArray[0]
+      let tickers = data.ticker;
+      let filteredTickersArray = tickers.filter(tickerOneObj => tickerOneObj.ticker == tickerOne);
+      let result = filteredTickersArray[0];
+
       // Pull the desired information (ticker, long name, sector, daily volume, ) from your filtered data
-      let ticker = result.symbol;
-      let labels = result.otu_ids;
-      let values = result.sample_values;
+      let ticker = result.ticker[i]; // Ticker variable
+      let open = result.open; // Opening price variable
+      let high = result.high; // High price variable
+      let low = result.low; // Low price Variable
+      let close = result.close; // Closing price variable
+      let volTraded = result.volTraded; // Daily Volume variable
+
       
-      //BUILD LINE CHART WITH DAILY PRICE OVER TIME FOR THE LAST WEEK WITH BAR CHART OF VOLUME IMPOSED BEHIND?
-      // Build a Bubble Chart
-      let bubbleTrace = {
-       x: labels,
-       y: values,
-       mode: 'markers',
-       marker: {
-       color: labels,
-       size: values
-        }
+      //BUILD OHLC (candlestick) CHART WITH DAILY PRICE OVER TIME FOR THE LAST WEEK WITH BAR CHART OF VOLUME IMPOSED BEHIND?
+      let ohlcLayout = {
+
       };
-      let bubbleLayout = {
-      title: "Prevalence of OTUs",
-      xaxis: {
-        title: {
-          text: "OTU ID"
-        }
-      }
-      };
-      let bubbleData = [bubbleTrace]
-      Plotly.newPlot('stock-1', bubbleData, bubbleLayout);
+
+      
+      
   
     });
     
@@ -138,10 +131,10 @@ function init() {
   let selector = d3.select("#selStockOne")
 
     // Use the list of tickers to populate the select options
-    const url = "https://znjanxz3h6.execute-api.us-west-2.amazonaws.com/default";
+    const url2 = "https://znjanxz3h6.execute-api.us-west-2.amazonaws.com/default";
 
     //fetch the JSON data and console log it
-    d3.json(url).then((data) => {
+    d3.json(url2).then((data) => {
       let tickers = data.body
       // Loop through the names and append to the dropdown menu
       for (let i = 0; i < tickers.length; i++){
