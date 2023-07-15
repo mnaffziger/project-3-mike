@@ -112,9 +112,9 @@
             "ticker": "AAPL",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 189.16,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -126,9 +126,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 189.68,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -140,9 +140,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 190.5,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -154,9 +154,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 190.23,
                             "dayHigh": 191.175,
                             "dayLow": 189.725,
@@ -173,9 +173,9 @@
             "ticker": "ABBV",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 134.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -187,9 +187,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 135.82,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -201,9 +201,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 132.93,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -215,9 +215,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 134.73,
                             "dayHigh": 136.065,
                             "dayLow": 134.12,
@@ -234,9 +234,9 @@
             "ticker": "ABNB",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 129.45,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -248,9 +248,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 139.35,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -262,9 +262,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 138.96,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -276,9 +276,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 140.25,
                             "dayHigh": 142.035,
                             "dayLow": 139.69,
@@ -295,9 +295,9 @@
             "ticker": "ABT",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 107.02,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -309,9 +309,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 108.06,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -323,9 +323,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 106.69,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -337,9 +337,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 108.0,
                             "dayHigh": 108.43,
                             "dayLow": 107.18,
@@ -356,9 +356,9 @@
             "ticker": "ADBE",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 497.28,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -370,9 +370,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 509.405,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -384,9 +384,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 509.62,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -398,9 +398,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 517.34,
                             "dayHigh": 523.785,
                             "dayLow": 517.13,
@@ -417,9 +417,9 @@
             "ticker": "ADI",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 191.66,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -431,9 +431,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 193.41,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -445,9 +445,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 196.68,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -459,9 +459,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 197.375,
                             "dayHigh": 197.385,
                             "dayLow": 192.905,
@@ -478,9 +478,9 @@
             "ticker": "ADP",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 224.84,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -492,9 +492,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 228.88,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -506,9 +506,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 225.24,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -520,9 +520,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 227.2,
                             "dayHigh": 228.89,
                             "dayLow": 226.62,
@@ -539,9 +539,9 @@
             "ticker": "AMAT",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 140.18,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -553,9 +553,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 139.21,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -567,9 +567,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 140.12,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -581,9 +581,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 144.57,
                             "dayHigh": 145.3899,
                             "dayLow": 143.345,
@@ -600,9 +600,9 @@
             "ticker": "AMD",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 111.66,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -614,9 +614,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 112.89,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -628,9 +628,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 115.76,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -642,9 +642,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 116.17,
                             "dayHigh": 122.12,
                             "dayLow": 115.68,
@@ -661,9 +661,9 @@
             "ticker": "AMGN",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 223.83,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -675,9 +675,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 225.17,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -689,9 +689,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 225.85,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -703,9 +703,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 227.84,
                             "dayHigh": 228.4077,
                             "dayLow": 225.98,
@@ -722,9 +722,9 @@
             "ticker": "AMT",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 193.64,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -736,9 +736,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 197.26,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -750,9 +750,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 195.08,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -764,9 +764,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 196.1,
                             "dayHigh": 196.63,
                             "dayLow": 194.6,
@@ -783,9 +783,9 @@
             "ticker": "AMZN",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 127.75,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -797,9 +797,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 130.31,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -811,9 +811,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 134.04,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -825,9 +825,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 134.06,
                             "dayHigh": 136.64,
                             "dayLow": 134.12,
@@ -844,9 +844,9 @@
             "ticker": "AVGO",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 881.11,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -858,9 +858,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 889.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -872,9 +872,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 898.94,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -886,9 +886,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 886.16,
                             "dayHigh": 903.22,
                             "dayLow": 886.16,
@@ -905,9 +905,9 @@
             "ticker": "AXP",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 172.5,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -919,9 +919,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 177.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -933,9 +933,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 175.42,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -947,9 +947,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 175.36,
                             "dayHigh": 175.66,
                             "dayLow": 172.52,
@@ -966,9 +966,9 @@
             "ticker": "BA",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 212.915,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -980,9 +980,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 219.51,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -994,9 +994,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 218.13,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1008,9 +1008,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 217.0,
                             "dayHigh": 217.016,
                             "dayLow": 213.14,
@@ -1027,9 +1027,9 @@
             "ticker": "BAC",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 28.66,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1041,9 +1041,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 29.51,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1055,9 +1055,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 29.52,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1069,9 +1069,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 30.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1088,9 +1088,9 @@
             "ticker": "BKNG",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 2739.92,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1102,9 +1102,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 2804.2,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1116,9 +1116,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 2825.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1130,9 +1130,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 2844.79,
                             "dayHigh": 2855.33,
                             "dayLow": 2828.055,
@@ -1149,9 +1149,9 @@
             "ticker": "BLK",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 699.92,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1163,9 +1163,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 722.67,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1177,9 +1177,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 732.87,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1191,9 +1191,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 743.0,
                             "dayHigh": 744.0,
                             "dayLow": 722.54,
@@ -1210,9 +1210,9 @@
             "ticker": "BMY",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 62.32,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1224,9 +1224,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 62.88,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1238,9 +1238,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 62.4,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1252,9 +1252,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 62.02,
                             "dayHigh": 62.34,
                             "dayLow": 61.58,
@@ -1271,9 +1271,9 @@
             "ticker": "BRK-B",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 341.23,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1285,9 +1285,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 345.29,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1299,9 +1299,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 345.6,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1313,9 +1313,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 344.99,
                             "dayHigh": 345.44,
                             "dayLow": 341.045,
@@ -1332,9 +1332,9 @@
             "ticker": "C",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 45.8,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1346,9 +1346,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 47.26,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1360,9 +1360,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 47.56,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1374,9 +1374,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 48.48,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1393,9 +1393,9 @@
             "ticker": "CAT",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": NaN,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1407,9 +1407,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": NaN,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1421,9 +1421,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": NaN,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1435,9 +1435,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": NaN,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1454,9 +1454,9 @@
             "ticker": "CI",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 279.35,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1468,9 +1468,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 277.5,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1482,9 +1482,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 269.13,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1496,9 +1496,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 277.94,
                             "dayHigh": 284.9,
                             "dayLow": 277.94,
@@ -1515,9 +1515,9 @@
             "ticker": "CMCSA",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 41.98,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1529,9 +1529,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 42.23,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1543,9 +1543,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 42.68,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1557,9 +1557,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 41.93,
                             "dayHigh": 42.265,
                             "dayLow": 41.8,
@@ -1576,9 +1576,9 @@
             "ticker": "COP",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 105.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1590,9 +1590,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 108.64,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1604,9 +1604,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 109.89,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1618,9 +1618,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 110.07,
                             "dayHigh": 110.23,
                             "dayLow": 106.45,
@@ -1637,9 +1637,9 @@
             "ticker": "COST",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 527.5,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1651,9 +1651,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 532.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1665,9 +1665,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 537.8,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1679,9 +1679,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 538.71,
                             "dayHigh": 545.0,
                             "dayLow": 538.1,
@@ -1698,9 +1698,9 @@
             "ticker": "CRM",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 222.06,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1712,9 +1712,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 221.9,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1726,9 +1726,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 228.26,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1740,9 +1740,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 229.7,
                             "dayHigh": 232.07,
                             "dayLow": 228.8,
@@ -1759,9 +1759,9 @@
             "ticker": "CSCO",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 51.57,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1773,9 +1773,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 51.56,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1787,9 +1787,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 50.69,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1801,9 +1801,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 50.42,
                             "dayHigh": 50.97,
                             "dayLow": 50.055,
@@ -1820,9 +1820,9 @@
             "ticker": "CVS",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 69.65,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1834,9 +1834,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 71.57,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1848,9 +1848,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 70.78,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1862,9 +1862,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 72.0,
                             "dayHigh": 72.3,
                             "dayLow": 71.31,
@@ -1881,9 +1881,9 @@
             "ticker": "CVX",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 156.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1895,9 +1895,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 159.22,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1909,9 +1909,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 159.84,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1923,9 +1923,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 157.01,
                             "dayHigh": 156.63,
                             "dayLow": 153.57,
@@ -1942,9 +1942,9 @@
             "ticker": "DE",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 410.41,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1956,9 +1956,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 417.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1970,9 +1970,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 408.21,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -1984,9 +1984,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 413.18,
                             "dayHigh": 413.94,
                             "dayLow": 409.08,
@@ -2003,9 +2003,9 @@
             "ticker": "DHR",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 234.645,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2017,9 +2017,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 239.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2031,9 +2031,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 240.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2045,9 +2045,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 239.83,
                             "dayHigh": 241.17,
                             "dayLow": 239.04,
@@ -2064,9 +2064,9 @@
             "ticker": "DIS",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 88.195,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2078,9 +2078,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 90.11,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2092,9 +2092,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 90.55,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2106,9 +2106,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 90.41,
                             "dayHigh": 90.49,
                             "dayLow": 88.675,
@@ -2125,9 +2125,9 @@
             "ticker": "ELV",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 431.79,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2139,9 +2139,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 427.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2153,9 +2153,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 416.26,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2167,9 +2167,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 435.19,
                             "dayHigh": 443.54,
                             "dayLow": 435.19,
@@ -2186,9 +2186,9 @@
             "ticker": "FI",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 126.93,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2200,9 +2200,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 128.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2214,9 +2214,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 127.395,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2228,9 +2228,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 128.48,
                             "dayHigh": 128.65,
                             "dayLow": 127.54,
@@ -2247,9 +2247,9 @@
             "ticker": "GE",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 110.73,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2261,9 +2261,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 111.29,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2275,9 +2275,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 111.25,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2289,9 +2289,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 111.0,
                             "dayHigh": 111.21,
                             "dayLow": 110.03,
@@ -2308,9 +2308,9 @@
             "ticker": "GILD",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 75.49,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2322,9 +2322,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 76.36,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2336,9 +2336,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 76.7,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2350,9 +2350,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 76.61,
                             "dayHigh": 77.48,
                             "dayLow": 76.46,
@@ -2369,9 +2369,9 @@
             "ticker": "GOOG",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 116.76,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2383,9 +2383,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 119.3,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2397,9 +2397,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 121.54,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2411,9 +2411,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 125.13,
                             "dayHigh": 127.09,
                             "dayLow": 124.9,
@@ -2430,9 +2430,9 @@
             "ticker": "GS",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 318.83,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2444,9 +2444,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 324.58,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2458,9 +2458,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 327.35,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2472,9 +2472,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 331.99,
                             "dayHigh": 332.475,
                             "dayLow": 325.21,
@@ -2491,9 +2491,9 @@
             "ticker": "HCA",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 297.14,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2505,9 +2505,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 295.77,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2519,9 +2519,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 295.65,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2533,9 +2533,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 296.01,
                             "dayHigh": 299.99,
                             "dayLow": 295.165,
@@ -2552,9 +2552,9 @@
             "ticker": "HD",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 312.91,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2566,9 +2566,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 316.31,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2580,9 +2580,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 318.1,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2594,9 +2594,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 314.84,
                             "dayHigh": 316.8799,
                             "dayLow": 314.275,
@@ -2613,9 +2613,9 @@
             "ticker": "HON",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 208.44,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2627,9 +2627,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 210.386,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2641,9 +2641,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 207.67,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2655,9 +2655,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 207.91,
                             "dayHigh": 207.84,
                             "dayLow": 205.5,
@@ -2674,9 +2674,9 @@
             "ticker": "IBM",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 133.66,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2688,9 +2688,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 135.07,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2702,9 +2702,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 133.51,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2716,9 +2716,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 133.91,
                             "dayHigh": 133.93,
                             "dayLow": 132.94,
@@ -2735,9 +2735,9 @@
             "ticker": "INTC",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 32.82,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2749,9 +2749,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 33.69,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2763,9 +2763,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 34.15,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2777,9 +2777,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 33.78,
                             "dayHigh": 33.87,
                             "dayLow": 33.2701,
@@ -2796,9 +2796,9 @@
             "ticker": "INTU",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 465.65,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2810,9 +2810,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 472.26,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2824,9 +2824,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 480.15,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2838,9 +2838,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 479.0,
                             "dayHigh": 486.48,
                             "dayLow": 478.433,
@@ -2857,9 +2857,9 @@
             "ticker": "ISRG",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 340.92,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2871,9 +2871,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 342.88,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2885,9 +2885,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 348.32,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2899,9 +2899,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 347.5,
                             "dayHigh": 354.39,
                             "dayLow": 346.4,
@@ -2918,9 +2918,9 @@
             "ticker": "JNJ",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 159.13,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2932,9 +2932,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 158.94,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2946,9 +2946,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 158.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2960,9 +2960,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 159.18,
                             "dayHigh": 160.17,
                             "dayLow": 158.9801,
@@ -2979,9 +2979,9 @@
             "ticker": "JPM",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 146.335,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -2993,9 +2993,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 147.45,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3007,9 +3007,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 148.7,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3021,9 +3021,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 151.55,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3040,9 +3040,9 @@
             "ticker": "KO",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 59.46,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3054,9 +3054,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 59.75,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3068,9 +3068,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 60.12,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3082,9 +3082,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 60.14,
                             "dayHigh": 60.78,
                             "dayLow": 60.09,
@@ -3101,9 +3101,9 @@
             "ticker": "LLY",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 450.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3115,9 +3115,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 438.47,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3129,9 +3129,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 440.23,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3143,9 +3143,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 441.1,
                             "dayHigh": 450.3885,
                             "dayLow": 441.3,
@@ -3162,9 +3162,9 @@
             "ticker": "LMT",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 461.27,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3176,9 +3176,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 467.2,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3190,9 +3190,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 461.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3204,9 +3204,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 466.0,
                             "dayHigh": 466.46,
                             "dayLow": 463.075,
@@ -3223,9 +3223,9 @@
             "ticker": "LOW",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 231.27,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3237,9 +3237,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 231.75,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3251,9 +3251,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 232.57,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3265,9 +3265,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 229.95,
                             "dayHigh": 230.86,
                             "dayLow": 229.1713,
@@ -3284,9 +3284,9 @@
             "ticker": "LRCX",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 628.55,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3298,9 +3298,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 628.96,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3312,9 +3312,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 627.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3326,9 +3326,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 642.12,
                             "dayHigh": 647.18,
                             "dayLow": 638.67,
@@ -3345,9 +3345,9 @@
             "ticker": "MA",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 393.62,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3359,9 +3359,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 399.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3373,9 +3373,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 403.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3387,9 +3387,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 402.12,
                             "dayHigh": 403.24,
                             "dayLow": 400.295,
@@ -3406,9 +3406,9 @@
             "ticker": "MCD",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 295.29,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3420,9 +3420,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 296.83,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3434,9 +3434,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 295.39,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3448,9 +3448,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 295.25,
                             "dayHigh": 295.63,
                             "dayLow": 294.03,
@@ -3467,9 +3467,9 @@
             "ticker": "MDLZ",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 72.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3481,9 +3481,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 71.28,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3495,9 +3495,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 71.35,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3509,9 +3509,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 71.97,
                             "dayHigh": 72.0979,
                             "dayLow": 71.6,
@@ -3528,9 +3528,9 @@
             "ticker": "META",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 293.9,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3542,9 +3542,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 301.745,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3556,9 +3556,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 313.62,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3570,9 +3570,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 311.79,
                             "dayHigh": 314.88,
                             "dayLow": 310.7,
@@ -3589,9 +3589,9 @@
             "ticker": "MMC",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 186.45,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3603,9 +3603,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 187.81,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3617,9 +3617,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 186.37,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3631,9 +3631,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 187.02,
                             "dayHigh": 187.41,
                             "dayLow": 185.55,
@@ -3650,9 +3650,9 @@
             "ticker": "MO",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 44.95,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3664,9 +3664,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 45.74,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3678,9 +3678,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 45.56,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3692,9 +3692,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 45.67,
                             "dayHigh": 45.68,
                             "dayLow": 45.35,
@@ -3711,9 +3711,9 @@
             "ticker": "MRK",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 109.48,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3725,9 +3725,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 108.37,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3739,9 +3739,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 107.33,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3753,9 +3753,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 106.26,
                             "dayHigh": 107.66,
                             "dayLow": 106.26,
@@ -3772,9 +3772,9 @@
             "ticker": "MS",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 83.9,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3786,9 +3786,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 86.68,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3800,9 +3800,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 86.23,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3814,9 +3814,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 87.41,
                             "dayHigh": 87.41,
                             "dayLow": 85.56,
@@ -3833,9 +3833,9 @@
             "ticker": "MSFT",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 331.06,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3847,9 +3847,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 336.6,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3861,9 +3861,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 339.56,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3875,9 +3875,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 347.59,
                             "dayHigh": 351.43,
                             "dayLow": 345.86,
@@ -3894,9 +3894,9 @@
             "ticker": "NEE",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 71.64,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3908,9 +3908,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 72.54,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3922,9 +3922,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 73.52,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3936,9 +3936,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 73.48,
                             "dayHigh": 73.63,
                             "dayLow": 72.79,
@@ -3955,9 +3955,9 @@
             "ticker": "NFLX",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 438.65,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3969,9 +3969,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 444.55,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3983,9 +3983,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 447.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -3997,9 +3997,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 452.785,
                             "dayHigh": 456.48,
                             "dayLow": 445.96,
@@ -4016,9 +4016,9 @@
             "ticker": "NKE",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 105.65,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4030,9 +4030,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 108.525,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4044,9 +4044,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 109.07,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4058,9 +4058,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 107.94,
                             "dayHigh": 108.635,
                             "dayLow": 107.19,
@@ -4077,9 +4077,9 @@
             "ticker": "NOW",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 567.21,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4091,9 +4091,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 570.86,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4105,9 +4105,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 566.62,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4119,9 +4119,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 577.0,
                             "dayHigh": 584.2625,
                             "dayLow": 576.0,
@@ -4138,9 +4138,9 @@
             "ticker": "NVDA",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 424.81,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4152,9 +4152,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 430.33,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4166,9 +4166,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 445.18,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4180,9 +4180,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 465.828,
                             "dayHigh": 480.4,
                             "dayLow": 462.29,
@@ -4199,9 +4199,9 @@
             "ticker": "ORCL",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 114.195,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4213,9 +4213,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 115.67,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4227,9 +4227,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 117.09,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4241,9 +4241,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 118.18,
                             "dayHigh": 119.97,
                             "dayLow": 117.7,
@@ -4260,9 +4260,9 @@
             "ticker": "PANW",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 248.575,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4274,9 +4274,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 251.14,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4288,9 +4288,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 236.29,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4302,9 +4302,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 238.5,
                             "dayHigh": 242.83,
                             "dayLow": 238.08,
@@ -4321,9 +4321,9 @@
             "ticker": "PEP",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 184.38,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4335,9 +4335,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 183.98,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4349,9 +4349,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 185.8,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4363,9 +4363,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 187.86,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4382,9 +4382,9 @@
             "ticker": "PFE",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 35.64,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4396,9 +4396,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 36.2,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4410,9 +4410,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 36.01,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4424,9 +4424,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 36.3,
                             "dayHigh": 36.365,
                             "dayLow": 36.005,
@@ -4443,9 +4443,9 @@
             "ticker": "PG",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 148.73,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4457,9 +4457,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 148.03,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4471,9 +4471,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 149.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4485,9 +4485,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 149.27,
                             "dayHigh": 149.68,
                             "dayLow": 148.74,
@@ -4504,9 +4504,9 @@
             "ticker": "PGR",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 131.38,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4518,9 +4518,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 132.9,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4532,9 +4532,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 122.5,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4546,9 +4546,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 114.2,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4565,9 +4565,9 @@
             "ticker": "PLD",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 122.22,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4579,9 +4579,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 125.34,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4593,9 +4593,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 125.34,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4607,9 +4607,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 126.46,
                             "dayHigh": 127.53,
                             "dayLow": 125.82,
@@ -4626,9 +4626,9 @@
             "ticker": "PM",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 98.11,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4640,9 +4640,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 98.75,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4654,9 +4654,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 99.27,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4668,9 +4668,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 100.37,
                             "dayHigh": 100.65,
                             "dayLow": 99.7501,
@@ -4687,9 +4687,9 @@
             "ticker": "QCOM",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 117.8,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4701,9 +4701,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 117.56,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4715,9 +4715,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 120.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4729,9 +4729,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 123.0,
                             "dayHigh": 123.18,
                             "dayLow": 121.13,
@@ -4748,9 +4748,9 @@
             "ticker": "REGN",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 707.94,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4762,9 +4762,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 717.75,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4776,9 +4776,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 722.57,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4790,9 +4790,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 721.12,
                             "dayHigh": 721.35,
                             "dayLow": 715.22,
@@ -4809,9 +4809,9 @@
             "ticker": "RTX",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 97.1,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4823,9 +4823,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 98.64,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4837,9 +4837,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 96.59,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4851,9 +4851,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 97.09,
                             "dayHigh": 97.15,
                             "dayLow": 95.865,
@@ -4870,9 +4870,9 @@
             "ticker": "SBUX",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 99.44,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4884,9 +4884,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 101.42,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4898,9 +4898,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 101.51,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4912,9 +4912,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 101.77,
                             "dayHigh": 102.08,
                             "dayLow": 100.985,
@@ -4931,9 +4931,9 @@
             "ticker": "SCHW",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 58.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4945,9 +4945,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 58.2,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4959,9 +4959,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 58.74,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -4973,9 +4973,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 60.26,
                             "dayHigh": 60.26,
                             "dayLow": 58.955,
@@ -4992,9 +4992,9 @@
             "ticker": "SO",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 70.16,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5006,9 +5006,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 70.93,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5020,9 +5020,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 71.51,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5034,9 +5034,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 71.29,
                             "dayHigh": 71.43,
                             "dayLow": 71.015,
@@ -5053,9 +5053,9 @@
             "ticker": "SPGI",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 396.98,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5067,9 +5067,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 403.82,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5081,9 +5081,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 409.99,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5095,9 +5095,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 412.62,
                             "dayHigh": 416.04,
                             "dayLow": 412.29,
@@ -5114,9 +5114,9 @@
             "ticker": "SYK",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 295.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5128,9 +5128,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 298.08,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5142,9 +5142,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 297.68,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5156,9 +5156,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 299.64,
                             "dayHigh": 304.85,
                             "dayLow": 299.75,
@@ -5175,9 +5175,9 @@
             "ticker": "T",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 15.29,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5189,9 +5189,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 15.24,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5203,9 +5203,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 15.135,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5217,9 +5217,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 14.8,
                             "dayHigh": 14.81,
                             "dayLow": 14.29,
@@ -5236,9 +5236,9 @@
             "ticker": "TJX",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 83.96,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5250,9 +5250,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 86.15,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5264,9 +5264,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 85.34,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5278,9 +5278,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 84.66,
                             "dayHigh": 84.92,
                             "dayLow": 84.0,
@@ -5297,9 +5297,9 @@
             "ticker": "TMO",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 516.3,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5311,9 +5311,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 525.71,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5325,9 +5325,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 535.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5339,9 +5339,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 529.67,
                             "dayHigh": 530.13,
                             "dayLow": 525.31,
@@ -5358,9 +5358,9 @@
             "ticker": "TMUS",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 137.92,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5372,9 +5372,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 140.72,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5386,9 +5386,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 141.09,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5400,9 +5400,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 138.97,
                             "dayHigh": 140.33,
                             "dayLow": 138.47,
@@ -5419,9 +5419,9 @@
             "ticker": "TSLA",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 268.65,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5433,9 +5433,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 276.325,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5447,9 +5447,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 274.59,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5461,9 +5461,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 277.01,
                             "dayHigh": 285.3,
                             "dayLow": 276.31,
@@ -5480,9 +5480,9 @@
             "ticker": "TXN",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 179.83,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5494,9 +5494,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 181.01,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5508,9 +5508,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 183.5,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5522,9 +5522,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 181.61,
                             "dayHigh": 183.03,
                             "dayLow": 181.0,
@@ -5541,9 +5541,9 @@
             "ticker": "UBER",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 42.1,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5555,9 +5555,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 45.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5569,9 +5569,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 45.21,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5583,9 +5583,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 45.905,
                             "dayHigh": 46.4,
                             "dayLow": 44.675,
@@ -5602,9 +5602,9 @@
             "ticker": "UNH",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 462.37,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5616,9 +5616,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 463.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5630,9 +5630,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 452.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5644,9 +5644,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 462.55,
                             "dayHigh": 485.0,
                             "dayLow": 460.11,
@@ -5663,9 +5663,9 @@
             "ticker": "UNP",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 206.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5677,9 +5677,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 208.07,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5691,9 +5691,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 209.43,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5705,9 +5705,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 210.37,
                             "dayHigh": 211.66,
                             "dayLow": 209.87,
@@ -5724,9 +5724,9 @@
             "ticker": "UPS",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 181.93,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5738,9 +5738,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 187.07,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5752,9 +5752,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 186.64,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5766,9 +5766,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 184.78,
                             "dayHigh": 185.665,
                             "dayLow": 183.9,
@@ -5785,9 +5785,9 @@
             "ticker": "V",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 238.81,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5799,9 +5799,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 241.55,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5813,9 +5813,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 243.79,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5827,9 +5827,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 244.73,
                             "dayHigh": 244.73,
                             "dayLow": 241.96,
@@ -5846,9 +5846,9 @@
             "ticker": "VRTX",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 342.63,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5860,9 +5860,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 342.78,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5874,9 +5874,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 347.53,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5888,9 +5888,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 348.84,
                             "dayHigh": 351.68,
                             "dayLow": 348.215,
@@ -5907,9 +5907,9 @@
             "ticker": "VZ",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 35.12,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5921,9 +5921,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 35.105,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5935,9 +5935,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 34.82,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5949,9 +5949,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 34.43,
                             "dayHigh": 34.5,
                             "dayLow": 33.945,
@@ -5968,9 +5968,9 @@
             "ticker": "WFC",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 42.35,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5982,9 +5982,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 43.31,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -5996,9 +5996,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 43.47,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -6010,9 +6010,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 44.75,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -6029,9 +6029,9 @@
             "ticker": "WMT",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 154.77,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -6043,9 +6043,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 155.31,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -6057,9 +6057,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 155.43,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -6071,9 +6071,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 154.12,
                             "dayHigh": 154.62,
                             "dayLow": 153.58,
@@ -6090,9 +6090,9 @@
             "ticker": "XOM",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 105.26,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -6104,9 +6104,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 107.0,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -6118,9 +6118,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 105.97,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -6132,9 +6132,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 104.05,
                             "dayHigh": 104.05,
                             "dayLow": 101.02,
@@ -6151,9 +6151,9 @@
             "ticker": "ZTS",
             "stats": [
                 {
-                    "date": "2023-07-11",
                     "market": [
                         {
+                            "date": "2023-07-11",
                             "dailyOpen": 170.54,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -6165,9 +6165,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-12",
                     "market": [
                         {
+                            "date": "2023-07-12",
                             "dailyOpen": 171.95,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -6179,9 +6179,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-13",
                     "market": [
                         {
+                            "date": "2023-07-13",
                             "dailyOpen": 172.41,
                             "dayHigh": NaN,
                             "dayLow": NaN,
@@ -6193,9 +6193,9 @@
                     ]
                 },
                 {
-                    "date": "2023-07-14",
                     "market": [
                         {
+                            "date": "2023-07-14",
                             "dailyOpen": 171.66,
                             "dayHigh": 173.05,
                             "dayLow": 171.22,
