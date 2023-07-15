@@ -32,13 +32,16 @@ class MC_Scraper:
 
     def get_additional_data(self):
         print('getting additional data...')
-        for i,co in enumerate(self.dd):
+        cos=sorted(self.dd.keys())
+        for i,co in enumerate(cos):
             if MAX and i>MAX: break
             print('.',end='')
             time.sleep(1)
             ticker=co
-            tickerobj=yf.Ticker(ticker)
-            info=tickerobj.info
+            info=self.get_info(ticker)
+            if not info: continue
+##            tickerobj=yf.Ticker(ticker)
+##            info=tickerobj.info
 ##            print(info)
             #get quick ratio
             try:
@@ -70,6 +73,16 @@ class MC_Scraper:
                 print('\n-'*10+'>'+'no latlon found for %s'%co)
             #fix address
             self.dd[co]['address']=', '.join(self.dd[co]['address'])
+
+    def get_info(self,ticker):
+        try:
+            tickerobj=yf.Ticker(ticker)
+            info=tickerobj.info
+        except:
+            print('\nThere is a problem retrieving information for ticker {ticker}.\nTherefore, ticker {ticker} is being deleted.'.format(ticker=ticker))
+            del self.dd[ticker]
+            return None
+        return info
 
     def get_latlon(self,address):
         latlon=self.get_latlon2(address)

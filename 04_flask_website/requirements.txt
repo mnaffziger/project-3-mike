@@ -1,5 +1,11 @@
-Flask==0.10.1
-itsdangerous==1.1.0
-markupsafe==1.1.1
-jinja2==3.0.3
-gunicorn==19.4.5
+Flask
+itsdangerous
+markupsafe
+jinja2
+gunicorn
+Werkzeug
+beautifulsoup4
+requests
+#yfinance
+geopy
+python-dotenv

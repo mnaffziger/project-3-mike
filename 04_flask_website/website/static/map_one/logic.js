@@ -19,7 +19,7 @@ function normalize(val, max, min) {
 }
 
 function theradius(r){
-	r=r**0.25;
+	r=r**0.35;
 	if(r<1.00) r=1.00;
 	return r;
 }

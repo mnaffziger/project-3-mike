@@ -13,6 +13,6 @@ dump = "jobs/daily_stock_data_to_sql_dumps.py"
 
 subprocess.run(["python", scrape])
 subprocess.run(["python", dump])
-subprocess.run(["python", load])
+#subprocess.run(["python", load])
 
 print(f"All data scraped and saved for {today_date}.")

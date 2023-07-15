@@ -1,152 +1,147 @@
 //Copied structure from previous assignment, found here https://github.com/m-janssens-boop/belly_button_challenge.git
 //placeholder code that will be changed later to fit actual project needs
 
-function buildStockOne(tickerOne) {
 
-  function buildMetadata(tickerOne) {
+
+  function buildMetadata(ticker, metadata_id) {
 
     // Access the website and use d3 to operate on the data
     // read in url
-    const url1 = "https://raw.githubusercontent.com/mnaffziger/project-3-mike/main/05_michael_test/all_prices_xdf.json";
-
-    //fetch the JSON data and console log it
-   d3.json(url1).then((data) => {
-    console.log(data);
-
-    // Filter the data for the object with the desired ticker
-    let metadata = data.metadata;
-
-    //THIS CALL MAY NEED TO CHANGE DEPENDING ON HOW THE DATA IS FORMATTED
-    let filteredArray = metadata.filter(tickerOneObj => tickerOneObj.ticker == tickerOne);
-    let result = filteredArray[0];
-
-    // Select the panel with ticker of `#stock-one-metadata`
-    let panel = d3.select("#stock-one-metadata");
+    const url = "./stock_data_2023-07-11.json";
   
-    // Clear existing metadata - use `.html("")`
-    panel.html("");
-  
-    // Append new tags for each key-value in the metadata
-    for (key in result){
-      panel.append("h6").text(`${key.toUpperCase()}: ${result[key]}`)
-    };
-    });
-  };
-  
-  function buildChart(tickerOne) {
-    // Access the website and use .then to operate on the data
-        // read in url
-    const url1 = "https://raw.githubusercontent.com/mnaffziger/project-3-mike/main/05_michael_test/all_prices_xdf.json";
-
-    //fetch the JSON data and console log it
-    d3.json(url1).then((data) => {
-      // Filter the data for the object with the desired ticker
-      let tickers = data.ticker;
-      let filteredTickersArray = tickers.filter(tickerOneObj => tickerOneObj.ticker == tickerOne);
-      let result = filteredTickersArray[0];
-
-      // Pull the desired information (ticker, long name, sector, daily volume, ) from your filtered data
-      let ticker = result.ticker[i]; // Ticker variable
-      let open = result.open; // Opening price variable
-      let high = result.high; // High price variable
-      let low = result.low; // Low price Variable
-      let close = result.close; // Closing price variable
-      let volTraded = result.volTraded; // Daily Volume variable
-
-      
-      //BUILD OHLC (candlestick) CHART WITH DAILY PRICE OVER TIME FOR THE LAST WEEK WITH BAR CHART OF VOLUME IMPOSED BEHIND?
-      let ohlcLayout = {
-
-      };
-
-      
-      
-  
-    });
-    
-  };
-
-
-  //INPUT BUILD MAP FUNCTION
-  function buildMap() {
-
-  
-
-  }
-
-  //THIS PART IS UPDATED. NEEDS BOTH FUNCTIONS AT END TO BE UNCOMMENTED
-  function init() {
-    // Get the reference to the dropdown menu
-    let selector = d3.select("#selStockOne")
-  
-    // Use the list of tickers to populate the select options
-    const url = "stock_data_2023-07-11.json";
-
     //fetch the JSON data and console log it
     d3.json(url).then((data) => {
-      //CHANGE THIS
-    // Do this by pulling the array associated with `names` 
-      let dicts = data[0].ticker;
-      
-      // Loop through the names and append to the dropdown menu
-      for (let i = 0; i < dicts.length; i++){
-        selector.append("option").text(dicts[i]).property("value",dicts[i]);
-      };
+      // console.log(data);
   
-      // Use the first sample from the list to build the initial plots
-      // let firstTicker = tickers[0]
-      // buildChart(firstTicker)
-      // buildMetadata(firstTicker)
+      // Select the panel with ticker of `#stock-one-metadata`
+      let panel = d3.select(metadata_id);
+  
+      // Clear existing metadata - use `.html("")`
+      panel.html("");
+      
+      // grab the data associated with the selected ticker
+      let results = data.filter((tickerRow) => {
+        return ticker == tickerRow.ticker
+      })
+      let result = results[0]
+      // Append new tags for each key-value in the metadata
+      for (key in result){
+        panel.append("h6").text(`${key.toUpperCase()}: ${result[key]}`)
+      };
+    });
+  };
+
+ //THIS PART IS ALMOST DONE  : NEED TO ADD IN MICHAELS CHARTS    
+function buildChart(ticker, gauge_id) {
+  // Access the website and use .then to operate on the data
+      // read in url
+  const url = "./stock_data_2023-07-11.json"; 
+
+  //fetch the JSON data and console log it
+  d3.json(url).then((data) => {
+    
+    // Filter the data for the object with the desired ticker
+    // grab the data associated with the selected ticker
+    let results = data.filter((tickerRow) => {
+      return ticker == tickerRow.ticker
     })
-    ;
+    let info = results[0]
+    // Pull the  52 week low/high and the latest close
+    let low = info["52WeekLow"];
+    let high = info["52WeekHigh"];
+    let close = info["previousClose"]
+    
+    //Build gauge chart for 52 week metrics
+    //semi-circle gauge chart
+   let plotData = [
+    {
+      domain: {x: [0,1], y: [0,1]},
+      value: close,
+      title: {text: `<b>Previous Close in Relation to 52 Week Low/High</b> <br> </br> <b> ${ticker}</b>`,
+              font: {size: 15}
+              },
+      type: "indicator",
+      mode: "gauge+number+delta",
+      delta: { reference: low },
+      number: {prefix: "$"},
+      gauge: {
+        axis: { range: [low, high] },
+      steps: [
+        { range: [low, close], color: "orange" },
+        { range: [close, high], color: "purple" }
+      ],
+    }
+    }
+   ];
+
+   let layout = {
+    width: 500, 
+    height: 500, 
+    margin: { t: 10, b: 30 },
+    annotations: [
+      {
+        x: -0.05,
+        y: 0.2,
+        text: `<b>52 Week Low: $${low}</b>`,
+        showarrow: false,
+        font: {size: 13}
+      },
+      {
+        x: 1.1,
+        y: 0.2,
+        text: `<b>52 Week High: $${high}</b>`,
+        showarrow: false,
+        font: {size: 13}
+      }
+    ]
+  };
+
+    let GAUGE = document.getElementById(gauge_id);
+    Plotly.newPlot(GAUGE, plotData, layout);
+
+
+   });
+  
+};
+
+
+  function init() {
+    function buildStock(select_id, metadata_id, gauge_id) {
+      // Get the reference to the dropdown menu
+      let selector = d3.select(select_id)
+    
+        // Use the list of tickers to populate the select options
+        const url = "https://znjanxz3h6.execute-api.us-west-2.amazonaws.com/default";
+    
+        //fetch the JSON data and console log it
+        d3.json(url).then((data) => {
+          let tickers = data.body
+          // Loop through the names and append to the dropdown menu
+          for (let i = 0; i < tickers.length; i++){
+            let ticker = tickers[i][0];
+            console.log(ticker)
+            selector.append("option").text(ticker).property("value",ticker);
+          };
+    
+        // Use the first sample from the list to build the initial plots
+        let firstTicker = tickers[0][0]
+        buildChart(firstTicker, gauge_id)
+        buildMetadata(firstTicker, metadata_id)
+      })
+      ;
+    }
+    buildStock("#selStockOne", "#stock-one-metadata", "gauge-1")
+    buildStock("#selStockTwo", "#stock-two-metadata", "gauge-2")
   }
 
-  function optionChanged(newTicker) {
+  function optionChanged(ticker, metadata_id, gauge_id) {
     // Change your data and update your plots/metadata when newTicker is selected from the dropdown
-    buildChart(newTicker);
-    buildMetadata(newTicker);
+    buildChart(ticker, gauge_id);
+    buildMetadata(ticker, metadata_id);
   
   };
 
-  // Initialize the dashboard
+  // Initialize the dashboards
     init();
 
-}
-
-function buildStockTwo(tickerTwo) {
-  
-
-//COPY buildStockOne WHEN COMPLETE AND UPDATE WITH tickerTwo THROUGHOUT
-
-
-}
-
-
-
-
-
-
-function init() {
-  // Get the reference to the dropdown menu
-  let selector = d3.select("#selStockOne")
-
-    // Use the list of tickers to populate the select options
-    const url2 = "https://znjanxz3h6.execute-api.us-west-2.amazonaws.com/default";
-
-    //fetch the JSON data and console log it
-    d3.json(url2).then((data) => {
-      let tickers = data.body
-      // Loop through the names and append to the dropdown menu
-      for (let i = 0; i < tickers.length; i++){
-        let ticker = tickers[i][0];
-        console.log(ticker)
-        selector.append("option").text(ticker).property("value",ticker);
-        // <option value="AAPL">AAPL</option>
-      };
-  }
-  
-  )
-}
-
-init();
 
