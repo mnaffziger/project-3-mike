@@ -105,70 +105,125 @@ d3.json(url).then((data) => {
  });
 };
 
-// build ohlc chart
-function convertNaNToNull(array){
-  return array.map((value) => (isNaN(value) ? null : value));
+// Build / play with a fetch function??
+function fetchData(url) {
+  return fetch(url)
+    .then(responce => responce.json())
+    .catch(error => {
+      console.error("Error fetching data:", error);
+    });
 }
 
+
+// Build OHLC chart
 function buildOhlc(ticker, ohlc_id) {
-  d3.json(ohlcUrl).then((data) => {
-    // Filter the data for the object with the desired ticker
-    // grab the data associated with the selected ticker
-    convertNaNToNull(data);
-    let results = data.filter((tickerRow) => {
-      return ticker == tickerRow.ticker
-    });
-    let info = results[0];
+  fetchData(ohlcUrl).then(data => {
+      let result = data.filter(tickerRow => ticker === tickerRow.history.ticker);
+      if (result) {
+        const dates = result.dates;
+        const history = result.history;
 
-    // Extract the necessary data from the tickerData
-    const dates = info.dates;
-    const history = info.history;
+        const open = [];
+        const high = [];
+        const low = [];
+        const close = [];
 
-    // Create empty arrays for each component of OHLC
-    const open = [];
-    const high = [];
-    const low = [];
-    const close = [];
+        history.forEach(entry => {
+          const values = entry.values[0];
+          open.push(values.dailyOpen);
+          high.push(values.dayHigh);
+          low.push(values.dayLow);
+          close.push(values.previousClose);
+        });
 
-    // Loop through each entry in history and extract OHLC values
-    history.forEach(entry => {
-      const values = entry.values[0];
-      open.push(values.dailyOpen);
-      high.push(values.dayHigh);
-      low.push(values.dayLow);
-      close.push(values.previousClose);
-    });
+        const plotData = [
+          {
+            type: 'candlestick',
+            x: dates,
+            open: open,
+            high: high,
+            low: low,
+            close: close
+          }
+        ];
 
-    // Create the chart data
-    const plotData = [
-      {
-        type: 'candlestick',
-        x: dates,
-        open: open,
-        high: high,
-        low: low,
-        close: close
+        const layout = {
+          title: `${ticker} OHLC Chart`,
+          xaxis: {
+            rangeslider: {
+              visible: false
+            }
+          },
+          yaxis: {
+            title: 'Price'
+          }
+        };
+
+        const OHLC = document.getElementById(ohlc_id);
+        Plotly.newPlot(OHLC, plotData, layout);
       }
-    ];
+    });
+}
 
-    // Create the chart layout
-    const layout = {
-      title: `${ticker} OHLC Chart`,
-      xaxis: {
-        rangeslider: {
-          visible: false
-        }
-      },
-      yaxis: {
-        title: 'Price'
-      }
-    };
 
-    // Generate the chart using Plotly
-    let OHLC = document.getElementById(ohlc_id);
-    Plotly.newPlot(OHLC, plotData, layout);
-  });
-};
+// function buildOhlc(ticker, ohlc_id) {
+//   d3.json(ohlcUrl).then((data) => {
+//     // Filter the data for the object with the desired ticker
+//     // grab the data associated with the selected ticker
+//     let results = data.filter((tickerRow) => {
+//       return ticker == tickerRow.ticker
+//     });
+//     let info = results[0];
+
+//     // Extract the necessary data from the tickerData
+//     const dates = info.dates;
+//     const history = info.history;
+
+//     // Create empty arrays for each component of OHLC
+//     const open = [];
+//     const high = [];
+//     const low = [];
+//     const close = [];
+
+//     // Loop through each entry in history and extract OHLC values
+//     history.forEach(entry => {
+//       const values = entry.values[0];
+//       open.push(values.dailyOpen);
+//       high.push(values.dayHigh);
+//       low.push(values.dayLow);
+//       close.push(values.previousClose);
+//     });
+
+//     // Create the chart data
+//     const plotData = [
+//       {
+//         type: 'candlestick',
+//         x: dates,
+//         open: open,
+//         high: high,
+//         low: low,
+//         close: close
+//       }
+//     ];
+
+//     // Create the chart layout
+//     const layout = {
+//       title: `${ticker} OHLC Chart`,
+//       xaxis: {
+//         rangeslider: {
+//           visible: false
+//         }
+//       },
+//       yaxis: {
+//         title: 'Price'
+//       }
+//     };
+
+//     // Generate the chart using Plotly
+//     let OHLC = document.getElementById(ohlc_id);
+//     Plotly.newPlot(OHLC, plotData, layout);
+//   });
+// };
 
 
 
