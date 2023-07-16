@@ -108,7 +108,7 @@ d3.json(url).then((data) => {
 // Build / play with a fetch function??
 function fetchData(url) {
   return fetch(url)
-    .then(responce => responce.json())
+    .then(response => response.json())
     .catch(error => {
       console.error("Error fetching data:", error);
     });
@@ -117,53 +117,67 @@ function fetchData(url) {
 
 // Build OHLC chart
 function buildOhlc(ticker, ohlc_id) {
-  fetchData(ohlcUrl).then(data => {
-      let result = data.filter(tickerRow => ticker === tickerRow.history.ticker);
-      if (result) {
-        const dates = result.dates;
-        const history = result.history;
+  fetchData(ohlcUrl).then((data) => {
+      let historicals = data.history;
+      // let resultArray = historicals.filter(tickerRow => tickerRow.ticker == ticker);
+      // let result = resultArray[0];
+    
+      // let dates = result.values.map(entry => entry.date);
+      
+      // const open = result.values.map(entry => entry.dailyOpen);
+      // const high = result.values.map(entry => entry.dayHigh);
+      // const low = result.values.map(entry => entry.dayLow);
+      // const close = result.values.map(entry => entry.previousClose);
 
-        const open = [];
-        const high = [];
-        const low = [];
-        const close = [];
+      // Filter the historical data for the selected ticker symbol
+      let filteredData = historicals.filter(tickerRow => tickerRow.ticker == ticker);
 
-        history.forEach(entry => {
-          const values = entry.values[0];
-          open.push(values.dailyOpen);
-          high.push(values.dayHigh);
-          low.push(values.dayLow);
-          close.push(values.previousClose);
-        });
+      // Get an array of all the dates for the selected ticker symbol
+      let dates = filteredData.map(entry => entry.date);
 
-        const plotData = [
-          {
-            type: 'candlestick',
-            x: dates,
-            open: open,
-            high: high,
-            low: low,
-            close: close
+      let open = [];
+      let high = [];
+      let low = [];
+      let close = [];
+
+      // Iterate through each entry and collect the OHLC values
+      filteredData.forEach(entry => {
+        let values = entry.values[0];
+        open.push(values.dailyOpen);
+        high.push(values.dayHigh);
+        low.push(values.dayLow);
+        close.push(values.previousClose);
+      });
+
+
+      const plotData = [
+        {
+          type: 'ohlc',
+          x: dates,
+          open: open,
+          high: high,
+          low: low,
+          close: close
+        }
+      ];
+
+      const layout = {
+        title: `${ticker} OHLC Chart`,
+        dragmode: 'zoom',
+        xaxis: {
+          rangeslider: {
+            visible: true
           }
-        ];
-
-        const layout = {
-          title: `${ticker} OHLC Chart`,
-          xaxis: {
-            rangeslider: {
-              visible: false
-            }
-          },
-          yaxis: {
-            title: 'Price'
-          }
-        };
+        },
+        yaxis: {
+          title: 'Price'
+        }
+      };
 
         const OHLC = document.getElementById(ohlc_id);
         Plotly.newPlot(OHLC, plotData, layout);
-      }
     });
-}
+  }
 
 
 // function buildOhlc(ticker, ohlc_id) {
@@ -225,6 +239,13 @@ function buildOhlc(ticker, ohlc_id) {
 //   });
 // };
 
+function optionChanged(ticker, metadata_id, gauge_id, ohlc_id) {
+  // Change your data and update your plots/metadata when newTicker is selected from the dropdown
+  buildChart(ticker, gauge_id);
+  buildOhlc(ticker, ohlc_id);
+  buildMetadata(ticker, metadata_id);
+
+};
 
 
 function init() {
@@ -250,20 +271,13 @@ function init() {
       buildChart(firstTicker, gauge_id)
       buildOhlc(firstTicker,ohlc_id)
       buildMetadata(firstTicker, metadata_id)
-    })
-    ;
+    });
   }
-  buildStock("#selStockOne", "#stock-one-metadata", "gauge-1", "ohlc-1")
-  buildStock("#selStockTwo", "#stock-two-metadata", "gauge-2", "ohlc-2")
+  buildStock("#selStockOne", "#stock-one-metadata", "gauge-1", "ohlc-1");
+  buildStock("#selStockTwo", "#stock-two-metadata", "gauge-2", "ohlc-2");
 }
 
-function optionChanged(ticker, metadata_id, gauge_id, ohlc_id) {
-  // Change your data and update your plots/metadata when newTicker is selected from the dropdown
-  buildChart(ticker, gauge_id);
-  buildOhlc(ticker, ohlc_id);
-  buildMetadata(ticker, metadata_id);
 
-};
 
 // Initialize the dashboards
   init();
