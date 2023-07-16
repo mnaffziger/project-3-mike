@@ -26,7 +26,7 @@ function buildMetadata(ticker, metadata_id) {
     })
     let result = results[0]
     // Append new tags for each key-value in the metadata
-    for (key in result){
+    for (let key in result){
       panel.append("h6").text(`${key.toUpperCase()}: ${result[key]}`)
     };
 
@@ -107,7 +107,7 @@ d3.json(url).then((data) => {
 
 // build ohlc chart
 function convertNaNToNull(array){
-  return array.map((value) => (isNan(value) ? null : value));
+  return array.map((value) => (isNaN(value) ? null : value));
 }
 
 function buildOhlc(ticker, ohlc_id) {
