@@ -33,21 +33,6 @@ function buildMetadata(ticker, metadata_id) {
   });
 };
 
-
-
-// function buildOhlc(ticker, ohlc_id) {
-//   d3.json(ohlcUrl).then((data) => {
-//   let results = data.filter((tickerRow) =>{
-//     return ticker == tickerRow.tickers
-
-//   })
-  
-//   })
-//   console.log(ticker);
-// };
-
-
-
 //THIS PART IS ALMOST DONE  : NEED TO ADD IN MICHAELS CHARTS    
 function buildChart(ticker, gauge_id) {
 // Access the website and use .then to operate on the data
@@ -118,15 +103,72 @@ d3.json(url).then((data) => {
 
 
  });
+};
 
 // build ohlc chart
-buildOhlc(ticker);
+function buildOhlc(ticker, ohlc_id) {
+  d3.json(ohlcUrl).then((data) => {
+    // Filter the data for the object with the desired ticker
+    // grab the data associated with the selected ticker
+    let results = data.filter((tickerRow) => {
+      return ticker == tickerRow.ticker
+    });
+    let info = results[0];
 
+    // Extract the necessary data from the tickerData
+    const dates = info.dates;
+    const history = info.history;
+
+    // Create empty arrays for each component of OHLC
+    const open = [];
+    const high = [];
+    const low = [];
+    const close = [];
+
+    // Loop through each entry in history and extract OHLC values
+    history.forEach(entry => {
+      const values = entry.values[0];
+      open.push(values.dailyOpen);
+      high.push(values.dayHigh);
+      low.push(values.dayLow);
+      close.push(values.previousClose);
+    });
+
+    // Create the chart data
+    const plotData = [
+      {
+        type: 'candlestick',
+        x: dates,
+        open: open,
+        high: high,
+        low: low,
+        close: close
+      }
+    ];
+
+    // Create the chart layout
+    const layout = {
+      title: `${ticker} OHLC Chart`,
+      xaxis: {
+        rangeslider: {
+          visible: false
+        }
+      },
+      yaxis: {
+        title: 'Price'
+      }
+    };
+
+    // Generate the chart using Plotly
+    let OHLC = document.getElementById(ohlc_id);
+    Plotly.newPlot(OHLC, plotData, layout);
+  });
 };
 
 
+
 function init() {
-  function buildStock(select_id, metadata_id, gauge_id) {
+  function buildStock(select_id, metadata_id, gauge_id, ohlc_id) {
     // Get the reference to the dropdown menu
     let selector = d3.select(select_id)
   
@@ -146,17 +188,18 @@ function init() {
       // Use the first sample from the list to build the initial plots
       let firstTicker = tickers[0][0]
       buildChart(firstTicker, gauge_id)
+      buildOhlc(firstTicker,ohlc_id)
       buildMetadata(firstTicker, metadata_id)
     })
     ;
   }
-  buildStock("#selStockOne", "#stock-one-metadata", "gauge-1")
-  buildStock("#selStockTwo", "#stock-two-metadata", "gauge-2")
+  buildStock("#selStockOne", "#stock-one-metadata", "gauge-1", "ohlc-1")
+  buildStock("#selStockTwo", "#stock-two-metadata", "gauge-2", "ohlc-2")
 }
 
-function optionChanged(ticker, metadata_id, gauge_id) {
+function optionChanged(ticker, metadata_id, gauge_id, ohlc_id) {
   // Change your data and update your plots/metadata when newTicker is selected from the dropdown
-  buildChart(ticker, gauge_id);
+  buildChart(ticker, gauge_id, ohlc_id);
   buildMetadata(ticker, metadata_id);
 
 };
