@@ -106,10 +106,15 @@ d3.json(url).then((data) => {
 };
 
 // build ohlc chart
+function convertNaNToNull(array){
+  return array.map((value) => (isNan(value) ? null : value));
+}
+
 function buildOhlc(ticker, ohlc_id) {
   d3.json(ohlcUrl).then((data) => {
     // Filter the data for the object with the desired ticker
     // grab the data associated with the selected ticker
+    convertNaNToNull(data);
     let results = data.filter((tickerRow) => {
       return ticker == tickerRow.ticker
     });
@@ -199,7 +204,8 @@ function init() {
 
 function optionChanged(ticker, metadata_id, gauge_id, ohlc_id) {
   // Change your data and update your plots/metadata when newTicker is selected from the dropdown
-  buildChart(ticker, gauge_id, ohlc_id);
+  buildChart(ticker, gauge_id);
+  buildOhlc(ticker, ohlc_id);
   buildMetadata(ticker, metadata_id);
 
 };
