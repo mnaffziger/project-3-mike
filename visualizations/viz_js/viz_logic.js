@@ -33,7 +33,7 @@ function buildMetadata(ticker, metadata_id) {
   });
 };
 
-//THIS PART IS ALMOST DONE  : NEED TO ADD IN MICHAELS CHARTS    
+
 function buildChart(ticker, gauge_id) {
 // Access the website and use .then to operate on the data
     // read in url
@@ -119,15 +119,6 @@ function fetchData(url) {
 function buildOhlc(ticker, ohlc_id) {
   fetchData(ohlcUrl).then((data) => {
       let historicals = data.history;
-      // let resultArray = historicals.filter(tickerRow => tickerRow.ticker == ticker);
-      // let result = resultArray[0];
-    
-      // let dates = result.values.map(entry => entry.date);
-      
-      // const open = result.values.map(entry => entry.dailyOpen);
-      // const high = result.values.map(entry => entry.dayHigh);
-      // const low = result.values.map(entry => entry.dayLow);
-      // const close = result.values.map(entry => entry.previousClose);
 
       // Filter the historical data for the selected ticker symbol
       let filteredData = historicals.filter(tickerRow => tickerRow.ticker == ticker);
